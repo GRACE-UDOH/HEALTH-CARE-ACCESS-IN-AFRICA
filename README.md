@@ -1,5 +1,5 @@
 
-# HEALTHCARE ACESS IN AFRICA
+# HEALTHCARE ACCESS IN AFRICA
 
 This project addresses critical disparities in healthcare access and funding between urban and rural regions. By analyzing infrastructure and performance data, it highlights the gaps that impact service delivery and equity in healthcare.
 
